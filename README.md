@@ -1,1 +1,1 @@
-# ss2025_swe_learn_supabase
+#SS2025_swe_learn_supabase
